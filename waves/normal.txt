@@ -1,0 +1,2 @@
+slime 5-7 1 bat 4-5 2 ghost 3-8 7 dragon 2-4 7
+ghost 4-5 3 dragon 2-3 10 slime 10-20 4 bat 5-10 5
