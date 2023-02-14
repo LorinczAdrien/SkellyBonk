@@ -1,5 +1,6 @@
 # SkellyBonk
 
+![](https://github.com/LorinczAdrien/SkellyBonk/blob/main/start_animation.gif)
 
 ## Description
 
